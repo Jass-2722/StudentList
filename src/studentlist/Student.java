@@ -7,6 +7,7 @@ package studentlist;
 /**
  *
  * @author fagun at 12/05/2025
+ //Jass Sandhu
  */
 public class Student {
     private String name;
